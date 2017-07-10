@@ -13,7 +13,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
 # lsioarmhf/booksonic
-[![](https://images.microbadger.com/badges/version/lsioarmhf/booksonic.svg)](https://microbadger.com/images/lsioarmhf/booksonic "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/booksonic.svg)](https://microbadger.com/images/lsioarmhf/booksonic "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/booksonic.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/booksonic.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-booksonic)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-booksonic/)
+[![](https://images.microbadger.com/badges/version/lsioarmhf/booksonic.svg)](https://microbadger.com/images/lsioarmhf/booksonic "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/booksonic.svg)](https://microbadger.com/images/lsioarmhf/booksonic "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/booksonic.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/booksonic.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/armhf/armhf-booksonic)](https://ci.linuxserver.io/job/Docker-Builders/job/armhf/job/armhf-booksonic/)
 
 [Booksonic][appurl] is a server and an app for streaming your audiobooks to any pc or android phone. Most of the functionality is also availiable on other platforms that have apps for subsonic.
 
@@ -89,5 +89,6 @@ Default user/pass is admin/admin
 
 ## Versions
 
++ **10.07.17:** Rebase to alpine 3.6.
 + **08.02.17:** Rebase to alpine 3.5.
 + **13.12.16:** Initial Release.
